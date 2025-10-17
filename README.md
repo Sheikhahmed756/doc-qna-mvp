@@ -1,6 +1,8 @@
-# 📘 Doc QnA — AI PDF Assistant
+# 📘 InsightDoc
 
-**Doc QnA** is a simple AI-powered web app that lets users upload a PDF document (manual, report, contract, etc.) and ask natural-language questions about its content. The system extracts text from the file, processes it, and uses a language model to generate accurate answers based on the uploaded content.
+**Tagline:** Ask questions and get instant answers from your documents — powered by AI.
+
+InsightDoc is a simple AI-powered web app that lets users upload a PDF document (manual, report, contract, etc.) and ask natural-language questions about its content. The system extracts text from the file, processes it, and uses a language model to generate accurate answers based on the uploaded content.
 
 ## 🎯 MVP Goals
 
